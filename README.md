@@ -10,7 +10,7 @@ Kotlin is the offical language for android development developed by google.
 3)It is a Functional programming language that contains Lamba fuction.
 4)Coroutines similar to thread but not a thread faster then thread.
 
-<B>DisAdvanges<B>
+<B>DisAdvantages<B>
 ----------------------
 1)Still many compines using java and legacy code will be avaible on java.
 2)Less libaray then java but google updating day by day.
